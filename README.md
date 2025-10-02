@@ -1,0 +1,1 @@
+# realistic_trading_chart.gif
